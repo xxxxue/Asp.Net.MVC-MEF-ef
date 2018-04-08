@@ -1,0 +1,45 @@
+﻿@using DAL
+@using Entity
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MyNotePage</title>
+</head>
+<body>
+    <div>
+
+        @*public int Id { get; set; }
+            public string Title { get; set; }
+            public string Content { get; set; }
+            public string SendDate { get; set; }*@
+        @{
+            List<NoteContentSet> noteList = ViewBag.noteList as List<NoteContentSet>;
+
+        }
+        <table>
+            @foreach (var item in noteList)
+            {
+
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Title</td>
+                    <td>@item.Content</td>
+                    <td>@item.SendDate</td>
+                </tr>
+            }
+        </table>
+
+
+
+
+
+    </div>
+</body>
+</html>

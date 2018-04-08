@@ -1,0 +1,6 @@
+C:\Users\xxxue\source\repos\MyNote\Entity\bin\Debug\Entity.dll
+C:\Users\xxxue\source\repos\MyNote\Entity\bin\Debug\Entity.pdb
+C:\Users\xxxue\source\repos\MyNote\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\xxxue\source\repos\MyNote\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\xxxue\source\repos\MyNote\Entity\obj\Debug\Entity.dll
+C:\Users\xxxue\source\repos\MyNote\Entity\obj\Debug\Entity.pdb
