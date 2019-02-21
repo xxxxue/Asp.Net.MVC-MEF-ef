@@ -3,3 +3,13 @@
 ################################################################################
 
 /MyNote/.vs
+
+MyNote/DAL/obj/
+
+MyNote/Entity/obj/
+
+MyNote/MefBase/obj/Debug/
+
+MyNote/MefBase/obj/
+
+MyNote/UI/obj/
